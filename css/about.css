@@ -3,6 +3,7 @@
     background-image: url("/assets/images/about-bg.jpg") ;
     height: 130vh;
     object-fit: cover;
+    margin-top: 12px;
 }
 
 #room {
