@@ -1,0 +1,66 @@
+@media (max-width: 425px) {
+    .navbar-brand {
+      font-size: 18px;
+    }
+  
+    .navbar-collapse {
+      margin-left: 0;
+      text-align: center;
+    }
+  
+    .navbar-nav {
+      flex-direction: column;
+    }
+  
+    .nav-item {
+      margin-bottom: 10px;
+    }
+  
+    .card {
+      max-width: 100%;
+      margin: 10px;
+    }
+  
+    .card-title {
+      font-size: 18px;
+      text-align: center;
+    }
+  
+    .card-text {
+      font-size: 14px;
+      text-align: justify;
+    }
+  
+    .book-now-btn {
+      display: block;
+      width: 100%;
+      font-size: 16px;
+      margin-top: 10px;
+    }
+  
+    .info-box {
+      margin-bottom: 15px;
+    }
+  
+    .info-icon {
+      font-size: 24px;
+    }
+  
+    .fw-bold {
+      font-size: 14px;
+    }
+  
+    .footer-title {
+      font-size: 18px;
+    }
+  
+    .footer-links-column {
+      text-align: center;
+      margin-bottom: 15px;
+    }
+  
+    .footer-contact,
+    .footer-address {
+      font-size: 14px;
+    }
+  }

@@ -89,4 +89,51 @@ body {
     margin-top: 100px;
     border-radius: 10px;
 }
+@media (max-width: 425px) {
+    .accommodation {
+      font-size: 24px;
+      text-align: center;
+      margin-bottom: 20px;
+    }
+  
+    .head {
+      font-size: 18px;
+      text-align: center;
+    }
+  
+    .super-para {
+      font-size: 14px;
+      text-align: justify;
+      padding: 10px;
+    }
+  
+    .highlight {
+      font-size: 14px;
+      text-align: center;
+    }
+  
+    .container .row .col-md-4 {
+      flex: 0 0 100%;
+      max-width: 100%;
+      margin-bottom: 15px;
+    }
+  
+    .ratio {
+      height: auto;
+    }
+  
+    .footer-title {
+      font-size: 18px;
+    }
+  
+    .footer-links-column {
+      text-align: center;
+      margin-bottom: 15px;
+    }
+  
+    .footer-contact,
+    .footer-address {
+      font-size: 14px;
+    }
+  }
 
