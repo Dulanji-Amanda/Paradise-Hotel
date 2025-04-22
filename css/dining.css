@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding-top: 5px;
+    background-color: #d6d6d5;
+}
+
+.accommodation {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    margin-top: 100px;
+    font-size: 15px;
+    font-family: "Lora", serif;
+}
+
+.head {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.super-para {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    padding-top: 50px;
+    padding-left: 300px;
+    padding-right: 300px;
+    text-align: center;
+    font-size: 20px;
+}
+
