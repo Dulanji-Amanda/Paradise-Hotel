@@ -52,19 +52,19 @@ body {
     padding-left: 100px;
 }
 .info-icon {
-    font-size: 24px;
-    color: #b1976b;
+    font-size: 20px;
+    color: #ca9233;
 }
 .book-now-btn {
     background-color: transparent;
     color: #b1976b;
-    background-color: black;
+    background-color: rgb(245, 241, 241);
     text-decoration: none;
     padding: 10px 10px;
     display: inline-block;
     transition: background-color 0.5s ease-in-out;
     border-radius: 10px;
-    margin-left: 45%;
+    margin-left: 35%;
     width: 200px;
 }
 .book-now-btn:hover {
@@ -76,30 +76,17 @@ body {
     background-color: black;
     color: #b1976b;
 }
-.feature-title {
-    color: #b3a995;
-    text-transform: uppercase;
-    font-weight: 600;
-    font-size: 13px;
-}
-
-.feature-text {
-    color: #000;
-    font-weight: bold;
-    text-transform: uppercase;
-}
-
-.feature-box {
-    border-right: 1px solid #ddd;
-    padding: 20px;
-}
-
-.no-border {
-    border-right: none;
-}
-
-.container {
+.img{
+    margin-left: 450px;
     margin-top: 50px;
+    display: flex;
+    width: 600px;
+    height: 600px;
+    border-radius: 10px;
 }
-
+.card{
+    margin-left: 300px;
+    margin-top: 100px;
+    border-radius: 10px;
+}
 
