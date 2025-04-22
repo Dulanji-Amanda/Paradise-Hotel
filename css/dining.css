@@ -36,3 +36,70 @@ body {
     font-size: 20px;
 }
 
+.highlight {
+    font-weight: bold;
+    text-transform: uppercase;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    padding-top: 30px;
+}
+
+.info-box {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding-left: 100px;
+}
+.info-icon {
+    font-size: 24px;
+    color: #b1976b;
+}
+.book-now-btn {
+    background-color: transparent;
+    color: #b1976b;
+    background-color: black;
+    text-decoration: none;
+    padding: 10px 10px;
+    display: inline-block;
+    transition: background-color 0.5s ease-in-out;
+    border-radius: 10px;
+    margin-left: 45%;
+    width: 200px;
+}
+.book-now-btn:hover {
+    background-color: white;
+    color: black;
+} 
+
+.book-btn:hover {
+    background-color: black;
+    color: #b1976b;
+}
+.feature-title {
+    color: #b3a995;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 13px;
+}
+
+.feature-text {
+    color: #000;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.feature-box {
+    border-right: 1px solid #ddd;
+    padding: 20px;
+}
+
+.no-border {
+    border-right: none;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+
