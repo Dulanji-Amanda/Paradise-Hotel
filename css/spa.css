@@ -5,6 +5,7 @@
 
 body {
     padding-top: 5px;
+    background-color: #d6d6d5;
 }
 
 .accommodation {
@@ -81,7 +82,7 @@ body {
     display: inline-block;
     transition: background-color 0.5s ease-in-out;
     border-radius: 10px;
-    margin-left: 10PX;
+    margin-left: 200PX;
 }
 
 .book-btn:hover {
